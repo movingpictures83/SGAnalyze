@@ -1,0 +1,2 @@
+directory	bams/
+transcripts	transcripts.rds

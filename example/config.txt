@@ -1,0 +1,2 @@
+Prefix plugins/SGAnalyze/example/
+Plugin SGAnalyze inputfile parameters.sganalyze.txt outputfile SpliceGraph
